@@ -1,4 +1,6 @@
-package pl.sda.arppl4.kolekcje_java.domowe.university;
+package pl.sda.arppl4.kolekcje_java.domowe.university.starsze_wersje;
+
+import pl.sda.arppl4.kolekcje_java.domowe.university.University;
 
 public class MainUniversity {
     public static void main(String[] args) {

@@ -1,4 +1,7 @@
-package pl.sda.arppl4.kolekcje_java.domowe.university;
+package pl.sda.arppl4.kolekcje_java.domowe.university.starsze_wersje;
+
+import pl.sda.arppl4.kolekcje_java.domowe.university.Student;
+import pl.sda.arppl4.kolekcje_java.domowe.university.University;
 
 import java.util.Optional;
 import java.util.Scanner;

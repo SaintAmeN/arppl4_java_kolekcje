@@ -1,4 +1,4 @@
-package pl.sda.arppl4.kolekcje_java;
+package pl.sda.arppl4.kolekcje_java.pozostale;
 
 public class MainOsoba {
     public static void main(String[] args) {
