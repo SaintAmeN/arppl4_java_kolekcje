@@ -1,5 +1,7 @@
 package pl.sda.arppl4.kolekcje_java.dziennik;
 
+import pl.sda.arppl4.kolekcje_java.sklepinternetowy.Produkt;
+
 import java.util.List;
 import java.util.Optional;
 import java.util.Scanner;
